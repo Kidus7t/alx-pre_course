@@ -1,1 +1,1 @@
-My first readme
+Hello there, this is kidus
